@@ -85,5 +85,13 @@ python src/main.py
 ## 📖Citation
 If you find our work helpful, please use the following citations.
 ```
-
+@misc{liu2024fullstackbenchevaluatingllms,
+      title={FullStack Bench: Evaluating LLMs as Full Stack Coders}, 
+      author={Siyao Liu and He Zhu and Jerry Liu and Shulin Xin and Aoyan Li and Rui Long and Li Chen and Jack Yang and Jinxiang Xia and Z. Y. Peng and Shukai Liu and Zhaoxiang Zhang and Ge Zhang and Wenhao Huang and Kai Shen and Liang Xiang},
+      year={2024},
+      eprint={2412.00535},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2412.00535}, 
+}
 ```
